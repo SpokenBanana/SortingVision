@@ -14,7 +14,7 @@ I loved how this project turned out and I plan on adding more sorting algorithms
 
 ### More screen shots!
 
-![screenshot](http://imgur.com/XON6CW6)
+![screenshot](http://i.imgur.com/XON6CW6.png)
 ![screenshot](http://i.imgur.com/2U5Kz4m.png)
 
 So satisfying!
